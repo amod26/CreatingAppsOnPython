@@ -1,5 +1,7 @@
 
 ## Installing Tkinter
-- sudo apt-get install python3-tk
 
+https://docs.python.org/3/library/tkinter.html
+
+- sudo apt-get install python3-tk
 - import tkinter as tk
